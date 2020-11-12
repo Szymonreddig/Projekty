@@ -1,2 +1,1 @@
-# Projekty
-Poniżej znajdują się moje projekty związane z Data Science
+# Powyżej jest moje Portfolio w Data Science, w ciągłej budowie :)
